@@ -1,0 +1,570 @@
+Simulation:1
+Simulation Results:
+Vehicle ID: 1 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 2 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 3 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 4 | Company: Delta Company
+  Total Flight Time: 2.38 hours
+  Total Distance: 214.2 miles
+  Total Charge Time: 0.62 hours
+  Total Faults: 2
+  Total Passenger Miles: 428.4 miles
+-----------------------------------
+Vehicle ID: 5 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 6 | Company: Bravo Company
+  Total Flight Time: 1.33333 hours
+  Total Distance: 133.333 miles
+  Total Charge Time: 0.2 hours
+  Total Faults: 1
+  Total Passenger Miles: 666.667 miles
+-----------------------------------
+Vehicle ID: 7 | Company: Alpha Company
+  Total Flight Time: 2.4 hours
+  Total Distance: 288 miles
+  Total Charge Time: 0.6 hours
+  Total Faults: 0
+  Total Passenger Miles: 1152 miles
+-----------------------------------
+Vehicle ID: 8 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 9 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 10 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 11 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 12 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 13 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 14 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 15 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 16 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 17 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 18 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 19 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 20 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+
+Simulation:2
+Simulation Results:
+Vehicle ID: 1 | Company: Charlie Company
+  Total Flight Time: 1.4 hours
+  Total Distance: 224 miles
+  Total Charge Time: 1.6 hours
+  Total Faults: 0
+  Total Passenger Miles: 672 miles
+-----------------------------------
+Vehicle ID: 2 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 3 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 4 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 5 | Company: Bravo Company
+  Total Flight Time: 1.33333 hours
+  Total Distance: 133.333 miles
+  Total Charge Time: 0.2 hours
+  Total Faults: 0
+  Total Passenger Miles: 666.667 miles
+-----------------------------------
+Vehicle ID: 6 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 7 | Company: Bravo Company
+  Total Flight Time: 1.33333 hours
+  Total Distance: 133.333 miles
+  Total Charge Time: 0.2 hours
+  Total Faults: 0
+  Total Passenger Miles: 666.667 miles
+-----------------------------------
+Vehicle ID: 8 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 9 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 10 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 11 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 12 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 13 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 14 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 15 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 16 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 17 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 18 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 19 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 20 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+
+Simulation:3
+Simulation Results:
+Vehicle ID: 1 | Company: Delta Company
+  Total Flight Time: 2.38 hours
+  Total Distance: 214.2 miles
+  Total Charge Time: 0.62 hours
+  Total Faults: 0
+  Total Passenger Miles: 428.4 miles
+-----------------------------------
+Vehicle ID: 2 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 3 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 4 | Company: Alpha Company
+  Total Flight Time: 2.4 hours
+  Total Distance: 288 miles
+  Total Charge Time: 0.6 hours
+  Total Faults: 0
+  Total Passenger Miles: 1152 miles
+-----------------------------------
+Vehicle ID: 5 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 6 | Company: Delta Company
+  Total Flight Time: 2.38 hours
+  Total Distance: 214.2 miles
+  Total Charge Time: 0.62 hours
+  Total Faults: 1
+  Total Passenger Miles: 428.4 miles
+-----------------------------------
+Vehicle ID: 7 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 8 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 9 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 10 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 11 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 12 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 13 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 14 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 15 | Company: Delta Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 150 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 16 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 17 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 18 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 19 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 20 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+                                                      
+Simulation Results:4
+Vehicle ID: 1 | Company: Delta Company
+  Total Flight Time: 2.38 hours
+  Total Distance: 214.2 miles
+  Total Charge Time: 0.62 hours
+  Total Faults: 0
+  Total Passenger Miles: 428.4 miles
+-----------------------------------
+Vehicle ID: 2 | Company: Charlie Company
+  Total Flight Time: 1.4 hours
+  Total Distance: 224 miles
+  Total Charge Time: 1.6 hours
+  Total Faults: 0
+  Total Passenger Miles: 672 miles
+-----------------------------------
+Vehicle ID: 3 | Company: Charlie Company
+  Total Flight Time: 1.4 hours
+  Total Distance: 224 miles
+  Total Charge Time: 1.6 hours
+  Total Faults: 0
+  Total Passenger Miles: 672 miles
+-----------------------------------
+Vehicle ID: 4 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 5 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 6 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 7 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 8 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 9 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 10 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 11 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 12 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 13 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 14 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 15 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 16 | Company: Echo Company
+  Total Flight Time: 0.862069 hours
+  Total Distance: 25.8621 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 51.7241 miles
+-----------------------------------
+Vehicle ID: 17 | Company: Charlie Company
+  Total Flight Time: 0.625 hours
+  Total Distance: 100 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 300 miles
+-----------------------------------
+Vehicle ID: 18 | Company: Bravo Company
+  Total Flight Time: 0.666667 hours
+  Total Distance: 66.6667 miles
+  Total Charge Time: 0 hours
+  Total Faults: 0
+  Total Passenger Miles: 333.333 miles
+-----------------------------------
+Vehicle ID: 19 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 1
+  Total Passenger Miles: 800 miles
+-----------------------------------
+Vehicle ID: 20 | Company: Alpha Company
+  Total Flight Time: 1.66667 hours
+  Total Distance: 200 miles
+  Total Charge Time: 0 hours
+  Total Faults: 2
+  Total Passenger Miles: 800 miles
+-----------------------------------
